@@ -379,7 +379,7 @@ body.menu-open {
     right: 0px;
     width: 40px;
     height: 40px;
-    background: url(/img/icons/shopping-cart.png) center no-repeat;
+    background: url(https://test-web22.github.io/growfy/img/icons/shopping-cart.png) center no-repeat;
   }
 }
 .main {
@@ -406,7 +406,7 @@ body.menu-open {
   left: -32px;
   width: 122px;
   height: 122px;
-  background: url(/img/decor.png) 0 0/100% no-repeat;
+  background: url(https://test-web22.github.io/growfy/img/decor.png) 0 0/100% no-repeat;
 }
 .main__images {
   flex: 0 1 50%;
@@ -469,7 +469,7 @@ body.menu-open {
   left: 0;
   width: 32px;
   height: 32px;
-  background: url(/img/why/check.svg) center no-repeat;
+  background: url(https://test-web22.github.io/growfy/img/why/check.svg) center no-repeat;
 }
 
 .images-main {
@@ -694,7 +694,7 @@ body.menu-open {
   left: -6px;
   width: 122px;
   height: 122px;
-  background: url(/img/decor.png) 0 0/100% no-repeat;
+  background: url(https://test-web22.github.io/growfy/img/decor.png) 0 0/100% no-repeat;
 }
 .images-why__item {
   overflow: hidden;
