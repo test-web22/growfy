@@ -157,7 +157,7 @@ body.menu-open {
   height: 32px;
   top: 0;
   left: 0;
-  background: url(/img/icons/black-theme.svg);
+  background: url(https://test-web22.github.io/growfy/img/icons/black-theme.svg);
   background-size: cover;
 }
 .ligth-theme .themes .theme__button::before {
@@ -167,7 +167,7 @@ body.menu-open {
   height: 32px;
   top: 0;
   left: 0;
-  background: url(/img/icons/ligth-theme.png);
+  background: url(https://test-web22.github.io/growfy/img/icons/ligth-theme.png);
   background-size: cover;
 }
 
@@ -1303,7 +1303,7 @@ body.menu-open {
   height: 24px;
   top: 14px;
   right: 14px;
-  background: url(/img/icons/invalid.png);
+  background: url(https://test-web22.github.io/growfy/img/icons/invalid.png);
   background-size: cover;
   z-index: 1000;
 }
@@ -1314,7 +1314,7 @@ body.menu-open {
   height: 24px;
   top: 14px;
   right: 14px;
-  background: url(/img/icons/valid.png);
+  background: url(https://test-web22.github.io/growfy/img/icons/valid.png);
   background-size: cover;
   z-index: 1000;
 }
